@@ -1,6 +1,10 @@
-
 body{
     background: #cccccccc;
+}
+
+.principal {
+    background-color: #cccccccc;
+    padding: 30px;
 }
 
 h1{
